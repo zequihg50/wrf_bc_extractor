@@ -1,0 +1,3 @@
+[console_scripts]
+wrf_bc_extractor = wrf_bc_extractor.cli:cli
+

@@ -1,0 +1,12 @@
+pywps>=4.2.0<4.3
+jinja2
+click
+psutil
+
+[dev]
+pytest
+flake8
+pytest-flake8
+sphinx>=1.7
+bump2version
+twine
